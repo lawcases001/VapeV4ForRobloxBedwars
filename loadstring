@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/lawcases011/VapeV4ForRobloxBedwars/main/NewMainScript.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LC-Official/VapeV4ForRobloxBedwars/main/NewMainScript.lua", true))()
